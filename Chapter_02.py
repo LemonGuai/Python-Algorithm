@@ -1,3 +1,6 @@
+'''
+选择排序-refs:算法图解P25
+'''
 def findmin(arrayToSort):
     min = arrayToSort[0]
     minIndex = 0
